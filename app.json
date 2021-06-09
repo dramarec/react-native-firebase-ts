@@ -1,0 +1,12 @@
+{
+  "name": "rnlogin",
+  "displayName": "rnlogin",
+  "expo": {
+    "name": "rnlogin",
+    "slug": "rnlogin",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
